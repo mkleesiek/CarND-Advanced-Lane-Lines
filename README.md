@@ -174,7 +174,7 @@ Switching to 3rd degree for the other two videos, however, lead to more irradic 
 * [input_images](input_images): Input folder for test images
 * [output_images](output_images): Output folder for processed test images
 * [input_videos](input_videos): Input folder for example videos
-* [output_video](output_video): Output folder for processed example videos
+* [output_videos](output_videos): Output folder for processed example videos
 * [examples](examples): Supplemental images for this Readme
 * [camera_cal](camera_cal): Camera calibration images
 * [.ipynb_checkpoints/*](.ipynb_checkpoints): Jupyter checkpoints for [P2.ipynb](P2.ipynb)
