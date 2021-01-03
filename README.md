@@ -182,4 +182,4 @@ Switching to 3rd degree for the other two videos, however, lead to more irradic 
 * [.ipynb_checkpoints/*](.ipynb_checkpoints): Jupyter checkpoints for [P2.ipynb](P2.ipynb)
 
 ## License
-The contents of this repository are covered under the [MIT License](https://github.com/mkleesiek/CarND-LaneLines-P1/blob/master/LICENSE).
+The contents of this repository are covered under the [MIT License](LICENSE).
